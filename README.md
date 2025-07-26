@@ -6,7 +6,7 @@
 
 ### 🧑‍💻 About Me
 - 🎓 Learning **C**, **Java**, **Python** with a mix of madness & meaning
-- 🌐 Passionate about **Web Dev**, **UI/UX**, and **AI x Philosophy**
+- 🌐 Passionate about **Web Dev**, **Exploring**, **AI ** and **Philosophy**
 
 ---
 
