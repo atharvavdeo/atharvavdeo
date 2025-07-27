@@ -51,13 +51,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/atharva-deo-147961331/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/atharvav75)
 
----
-
-#### 🔥 GitHub Contributions
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="atharvadeo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=atharvadeo&theme=github-compact&hide_border=true"/>
-</a>
 
 ---
 
