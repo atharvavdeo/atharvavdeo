@@ -53,13 +53,11 @@
 
 ---
 
-### 📊 GitHub Stats
-![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharvadeo&show_icons=true&theme=radical)
+#### 🔥 GitHub Contributions
 
-
----
-
-### ⚡ Fun Fact:
-> “I don't just write code. I refactor reality.”
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="atharvadeo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=atharvadeo&theme=github-compact&hide_border=true"/>
+</a>
 
 ---
+
