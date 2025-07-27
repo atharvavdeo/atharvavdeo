@@ -16,11 +16,14 @@
 <img src="https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/DaVinci Resolve-292929?style=for-the-badge&logo=daVinciResolve&logoColor=white"/>
+<img src="https://img.shields.io/badge/DaVinci%20Resolve-292929?style=for-the-badge&logo=daVinciResolve&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=black"/>
 <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 
 ---
 
