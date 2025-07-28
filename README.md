@@ -10,6 +10,17 @@
 
 ---
 
+### 🤝 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/atharva-deo-147961331/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/atharvav75)
+
+
+---
+### ✍️ My Blog Posts
+📖 Read my latest tech thoughts, hacks, and design takes here:  
+➡️ [https://blogposts.framer.wiki/](https://blogposts.framer.wiki/)
+
+---
 ### 🧰 Tech Stack & Tools I Use
 
 <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=white"/>
@@ -27,12 +38,6 @@
 
 ---
 
-### ✍️ My Blog Posts
-📖 Read my latest tech thoughts, hacks, and design takes here:  
-➡️ [https://blogposts.framer.wiki/](https://blogposts.framer.wiki/)
-
----
-
 ### 🎯 Current Goals
 - Survive CS50 without rage-quitting 💀
 - Build a unique personal brand through blogs & Insta content
@@ -44,13 +49,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/CiiDWKOWg7/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/atharvavdeo)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/atharvavdeo)
-
----
-
-### 🤝 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/atharva-deo-147961331/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/atharvav75)
-
 
 ---
 
