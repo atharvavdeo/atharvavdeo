@@ -1,12 +1,11 @@
-# 👋 Hey there,
+#  Hey there,
 
-SY CS(AI-DS) Student | 🧠 Tech Explorer | 🛠️ Code, Design, Create, Repeat
+SY CS(AI-DS) Student | 🛠Code, Design, Create, Repeat
 
 ---
 
-###  About Me
-- 🎓 Learning all there is
-- Survive CS50 without rage-quitting 💀
+-  Learning all there is
+- Survive CS without rage-quitting 💀
 
 ---
 
