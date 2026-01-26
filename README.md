@@ -3,7 +3,7 @@
 SY CS(AI-DS) Student | 🛠Code, Design, Create, Repeat
 
 ---
-
+🥇Winner at IIM-I | 5x Hackathon Winner
 -  Learning all there is
 - Survive CS without rage-quitting 💀
 
