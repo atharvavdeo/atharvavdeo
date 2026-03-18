@@ -4,7 +4,7 @@
 
 ### SY AI & Data Science @ DJSCE Mumbai
 
-** AI Systems · UI/UX · Automation Engineer · Freelancer**
+**AI Systems · UI/UX · Automation Engineer · Freelancer**
 
 `ML` `Agentic AI` `RAG` `Frontend` `Automation` `UI/UX Design` `Backend`
 
