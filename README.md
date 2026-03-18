@@ -1,6 +1,6 @@
 #  Hey there,
 
-SY CS(AI-DS) Student | 🛠Code, Design, Create, Repeat
+SY CS(AI-DS) Student | 🛠Code, Design, Create, Repeat | 
 Automation - ML - UI/UX - Frontend Dev
 
 ---
