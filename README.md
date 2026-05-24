@@ -10,7 +10,7 @@
 
 <br/>
 
-🥇 **9x Hackathon Winner** &nbsp;|&nbsp; 1st @ IIM Indore &nbsp;|&nbsp; 1st @ IIIT Pune &nbsp;|&nbsp; Top 5 @ IIT Dharwad &nbsp;|&nbsp; Top 10 @ IIT BHU
+🥇 **9x Hackathon Winner** &nbsp;|&nbsp; 1st @ IIM Indore &nbsp;|&nbsp; 1st @ IIIT Pune &nbsp;|&nbsp; Top 5 @ IIT Dharwad &nbsp;|&nbsp; Top 10 @ IIT BHU | AI Research Intern @ Napptix & Wizora
 
 <br/>
 
