@@ -2,7 +2,7 @@
 
 # Atharva Deo
 
-### SY AI & Data Science @ DJSCE Mumbai
+### TY AI & Data Science @ DJSCE Mumbai
 
 **AI Systems · UI/UX · Automation Engineer · Freelancer**
 
