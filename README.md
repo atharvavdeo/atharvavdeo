@@ -10,7 +10,7 @@
 
 <br/>
 
-🥇 **10x Hackathon Winner** &nbsp;|&nbsp; 1st @ IIM Indore &nbsp;|&nbsp; 1st @ IIIT Pune &nbsp;|&nbsp; Top 5 @ IIT Dharwad &nbsp;| &nbsp; Top 10 @ IIT KGP x Rime &nbsp; |&nbsp; Top 10 @ IIT BHU | ex-AI Research Intern @ Napptix | ex-ML Intern @ Wizora
+🥇 **12x Hackathon Winner** &nbsp;|&nbsp; 1st @ IIM Indore &nbsp;|&nbsp; 1st @ IIIT Pune &nbsp;|&nbsp; Top 5 @ IIT Dharwad &nbsp;| &nbsp; Top 10 @ IIT KGP x Rime &nbsp; |&nbsp; Top 10 @ IIT BHU | ex-AI Research Intern @ Napptix | ex-ML Intern @ Wizora
 
 <br/>
 
